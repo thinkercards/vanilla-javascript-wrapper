@@ -1,5 +1,14 @@
 /*Vanilla JS equivalents of jQuery methods */
 
+/*
+Events
+*/
+
+// jQuery
+$(document).ready(function() {
+  // code
+})
+
 // Vanilla
 document.addEventListener('DOMContentLoaded', function() {
   // code
@@ -19,14 +28,7 @@ $('a').click(function() {
 })
 
 */
-/*
-Events
-*/
 
-// jQuery
-$(document).ready(function() {
-  // code
-})
 
 
 /*
