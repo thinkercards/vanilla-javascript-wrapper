@@ -1,2 +1,3 @@
 # vanilla-javascript-wrapper
-Vanilla JavaScript Wrapper
+
+Vanilla JavaScript Snippet Collection
