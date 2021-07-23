@@ -1,4 +1,25 @@
 /*Vanilla JS equivalents of jQuery methods */
+
+// Vanilla
+document.addEventListener('DOMContentLoaded', function() {
+  // code
+})
+// jQuery
+$('a').click(function() {
+  // code…
+})
+
+// Vanilla
+
+/*
+[].forEach.call(document.querySelectorAll('a'), function(el) {
+  el.addEventListener('click', function() {
+    // code…
+  })
+})
+
+*/
+
 /*
 Selectors
 */
