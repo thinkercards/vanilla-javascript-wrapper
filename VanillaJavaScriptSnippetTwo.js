@@ -1,4 +1,15 @@
 /*Vanilla JS equivalents of jQuery methods */
+
+/*
+Events
+*/
+
+// jQuery
+$(document).ready(function() {
+  // code
+})
+
+
 /*
 Selectors
 */
