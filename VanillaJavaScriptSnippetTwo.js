@@ -19,6 +19,15 @@ $('a').click(function() {
 })
 
 */
+/*
+Events
+*/
+
+// jQuery
+$(document).ready(function() {
+  // code
+})
+
 
 /*
 Selectors
